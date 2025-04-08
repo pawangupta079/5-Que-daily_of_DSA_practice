@@ -25,4 +25,4 @@ public:
 
         return count; // Return the total count of subarrays that sum to k  
     }  
-};  
+};      
