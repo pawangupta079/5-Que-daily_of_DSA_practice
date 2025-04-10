@@ -1,4 +1,8 @@
-#include <iostream>
+#include<iostream>
+#include<algorithm> // For std::sort
+#include<string>
+#include<unordered_map>
+#include<cmath> // For std::pow
 using namespace std;
 void merge(int arr[], int left, int mid, int right) {
     int n1 = mid - left + 1;
