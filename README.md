@@ -1,4 +1,3 @@
-Certainly! Here's a well-structured and engaging README file template for your project, **"5-Que-daily_of_DSA_practice"**. Feel free to customize it further based on your specifics.
 
 ---
 
@@ -99,4 +98,3 @@ Keep practicing, stay consistent, and happy problem-solving! 🚀
 
 ---
 
-Would you like me to tailor this further to include specific topics, questions, or a different style?
