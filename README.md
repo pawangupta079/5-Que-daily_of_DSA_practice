@@ -1,4 +1,4 @@
-##Consistensy is the key
+##Consistensy is the key to success .
 ---
 
 # 5-Que-daily_of_DSA_practice
