@@ -1,6 +1,11 @@
 ##Consistensy is the key to success .
 ---
 
+
+##for english practice you can explore this link
+'''
+https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/conjunctions-or-so-because-although
+'''
 # 5-Que-daily_of_DSA_practice
 
 ## 📚 Daily Data Structures & Algorithms Practice
